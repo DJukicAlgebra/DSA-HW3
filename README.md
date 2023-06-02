@@ -1,2 +1,1 @@
-# DSA-HW3
- Homework 3
+# gdambic-rvs19-spa-dz-02
